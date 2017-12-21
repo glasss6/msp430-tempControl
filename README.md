@@ -1,8 +1,6 @@
-# Milestone 2: Closed Loop Systems
+# Closed Loop Temperature Control System for MSP430FR6989
 
-This repo contains the source code and application note for Milestone 2 by Damon Boorstein, Stephen Glass, and Brendan Nugent. The source code can be found in the sub-folder marked [milestone2](milestone2). The application note can be viewed on Google Docs [here](https://docs.google.com/a/students.rowan.edu/document/d/1tl_ZTwqizf479Djhk0YucLbRZvN3xw_1O4nQaTA-0f4/edit?usp=sharing).
-
-~~I'm sorry for using the plebian Google Docs, Russel. I tried to convince them to use the glorious Overleaf, but it was majority rules, and I lost.~~
+This repo contains the source code and application note by Damon Boorstein, Stephen Glass, and Brendan Nugent. The source code can be found in the sub-folder marked [code](code). The application note can be viewed on Google Docs [here](https://docs.google.com/a/students.rowan.edu/document/d/1tl_ZTwqizf479Djhk0YucLbRZvN3xw_1O4nQaTA-0f4/edit?usp=sharing).
 
 ## Dependencies
 

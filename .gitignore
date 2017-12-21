@@ -1,0 +1,22 @@
+## Code Composer Junk Files from Eclipse
+.jxbrowser-data
+.metadata
+RemoteSystemsTempFiles
+*.cproject
+*.project
+*.cmd
+*.ccsproject
+*.launch
+*.prefs
+*makefile
+*.map
+*.out
+*.xml
+*.d
+*.obj
+*.mk
+*.ccxml
+*.txt
+*.opt
+/MSP430F55xx_adc_09.c/
+/msp430fr231x_adc10_10.c/
